@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="profile-card.svg" alt="Profil" />
+</p>
 <!--
 **Amgt2302/Amgt2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
